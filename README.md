@@ -1,2 +1,2 @@
-# Bot-o-dark-mode
+# Botão-dark-mode
 Botão que aciona o dark mode
